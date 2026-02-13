@@ -1,9 +1,9 @@
-#!/bin/bash
-echo "Enter the principal:"
-read p
-echo "Enter rate of interest per year:"
-read r
-echo "Enter time period in years:"
-read t
-s=`expr $p * $t * $r / 100`
-echo "The simple interest is: $s"
+# Contributing to this Project
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes with clear messages.
+4. Push to your fork and submit a pull request.
